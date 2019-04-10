@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="condition">
+        <item >-선택-</item>
+        <item >신품</item>
+        <item >중고</item>
+    </string-array>
+
+</resources>
